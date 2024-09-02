@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pramudya-27
 - 👀 I’m interested in DevOps Engineering and IoT
 - 🌱 I’m currently learning CI/CD and Micropython
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me diopramudya73@gmail.com
 - 😄 Pronouns: He/him
 
