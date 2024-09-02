@@ -9,5 +9,3 @@ I'm a Informatic student who is passionate about writing code, solving problems,
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/diopramudya) [Gmail](mailto:diopramudya73@gmail.com)
 
-⭐️ From [diopramudya](https://github.com/pramudya-27)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
