@@ -6,6 +6,6 @@ I'm a Informatic student who is passionate about writing code, solving problems,
 
 - 🔭 I’m currently a IT student at State Electricity Company Institute of Technology.
 - 📚 I’m currently learning  DevOps and IoT using Jenkins, MicroPython, MQTT and Kubernetes.
-- 👯 I’m looking for a software development internship. 
+- 👯 I’m looking for a Technical Support Trainning. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/diopramudya) [Gmail](mailto:diopramudya73@gmail.com)
 
