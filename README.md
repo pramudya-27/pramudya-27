@@ -9,3 +9,5 @@ I'm a Informatic student who is passionate about writing code, solving problems,
 - 👯 I’m looking for a Technical Support Trainning. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dio-pramudya-34473b255) [Gmail](mailto:diopramudya73@gmail.com)
 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pramudya-27&theme=dark&show_icons=true" alt="pramudya-27"/>
+
